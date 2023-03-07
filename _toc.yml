@@ -1,0 +1,10 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: md_scripts/intro_python
+- file: md_scripts/intro_graficos_python
+  sections:
+    - file: md_scripts/Intro_DataVisualization
