@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: intro
+root: md_scripts/intro
 chapters:
 - file: md_scripts/intro_python
 - file: md_scripts/intro_graficos_python
