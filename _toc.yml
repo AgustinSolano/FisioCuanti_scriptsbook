@@ -8,3 +8,6 @@ chapters:
 - file: md_scripts/intro_graficos_python
   sections:
     - file: md_scripts/Intro_DataVisualization
+- file: md_scripts/difusion
+  sections: 
+    - file: md_scripts/Difusion_LeyesFick
