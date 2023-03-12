@@ -4,6 +4,8 @@
 format: jb-book
 root: md_scripts/intro
 chapters:
+- file: md_scripts/instalaciones_iniciales
+- file: md_scripts/instalacion_vscode
 - file: md_scripts/intro_python
 - file: md_scripts/intro_graficos_python
   sections:
