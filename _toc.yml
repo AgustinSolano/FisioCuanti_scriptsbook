@@ -1,15 +1,15 @@
 # Table of contents
 # Learn more at https://jupyterbook.org/customize/toc.html
 
-format: jb-book
+format: jb-article
 root: md_scripts/intro
-chapters:
+sections:
 - file: md_scripts/instalaciones_iniciales
 - file: md_scripts/instalacion_vscode
 - file: md_scripts/intro_python
 - file: md_scripts/intro_graficos_python
   sections:
-    - file: md_scripts/Intro_DataVisualization
+  - file: md_scripts/Intro_DataVisualization
 - file: md_scripts/difusion
   sections: 
-    - file: md_scripts/Difusion_LeyesFick
+  - file: md_scripts/Difusion_LeyesFick
