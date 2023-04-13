@@ -16,3 +16,6 @@ sections:
 - file: md_scripts/modelo_HH
   sections:
   - file: md_scripts/Potencial_Accion
+- file: md_scripts/sistResp
+  sections:
+  - file: md_scripts/RC_sistRespiratorio
